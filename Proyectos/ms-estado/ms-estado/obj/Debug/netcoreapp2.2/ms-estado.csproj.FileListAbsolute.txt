@@ -1,0 +1,14 @@
+C:\Proyectos\ms-estado\ms-estado\bin\Debug\netcoreapp2.2\ms-estado.deps.json
+C:\Proyectos\ms-estado\ms-estado\bin\Debug\netcoreapp2.2\ms-estado.runtimeconfig.json
+C:\Proyectos\ms-estado\ms-estado\bin\Debug\netcoreapp2.2\ms-estado.runtimeconfig.dev.json
+C:\Proyectos\ms-estado\ms-estado\bin\Debug\netcoreapp2.2\ms-estado.dll
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.csprojAssemblyReference.cache
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.csproj.CoreCompileInputs.cache
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.RazorAssemblyInfo.cache
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.RazorAssemblyInfo.cs
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.AssemblyInfoInputs.cache
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.AssemblyInfo.cs
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.RazorTargetAssemblyInfo.cache
+C:\Proyectos\ms-estado\ms-estado\bin\Debug\netcoreapp2.2\ms-estado.pdb
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.dll
+C:\Proyectos\ms-estado\ms-estado\obj\Debug\netcoreapp2.2\ms-estado.pdb
